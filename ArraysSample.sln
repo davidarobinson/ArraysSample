@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBArraysSample", "VBArraysSample\VBArraysSample.vbproj", "{12CF04BF-9924-45D7-A085-6A159FD250E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSArraysSample", "CSArraysSample\CSArraysSample.csproj", "{250582BB-9B0C-47F2-BE33-830BCEB11638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CF04BF-9924-45D7-A085-6A159FD250E3}.Debug|x86.ActiveCfg = Debug|x86
+		{12CF04BF-9924-45D7-A085-6A159FD250E3}.Debug|x86.Build.0 = Debug|x86
+		{12CF04BF-9924-45D7-A085-6A159FD250E3}.Release|x86.ActiveCfg = Release|x86
+		{12CF04BF-9924-45D7-A085-6A159FD250E3}.Release|x86.Build.0 = Release|x86
+		{250582BB-9B0C-47F2-BE33-830BCEB11638}.Debug|x86.ActiveCfg = Debug|x86
+		{250582BB-9B0C-47F2-BE33-830BCEB11638}.Debug|x86.Build.0 = Debug|x86
+		{250582BB-9B0C-47F2-BE33-830BCEB11638}.Release|x86.ActiveCfg = Release|x86
+		{250582BB-9B0C-47F2-BE33-830BCEB11638}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
